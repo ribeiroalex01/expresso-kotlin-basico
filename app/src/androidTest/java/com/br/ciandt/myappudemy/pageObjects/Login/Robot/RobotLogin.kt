@@ -45,6 +45,4 @@ class RobotLogin {
         onView(withId(R.id.btn_back)).perform(click())
     }
 
-
-
 }
